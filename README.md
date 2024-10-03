@@ -4,7 +4,7 @@ In this project, I will build a simple command line interface (CLI) to fetch the
 ## Prerrequisites
 
 - Have node.js intalled.
-- Have an Github usernmae to try it
+- Have a Github account to try it
   
 ## Usage
 
