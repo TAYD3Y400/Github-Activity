@@ -13,3 +13,5 @@ In this project, I will build a simple command line interface (CLI) to fetch the
 # Provide the GitHub username as an argument when running the CLI.
 github-activity <username>
 ```
+
+Challenge from https://roadmap.sh/projects/github-user-activity
